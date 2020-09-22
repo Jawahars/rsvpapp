@@ -24,7 +24,7 @@ spec:
       }
   }
 environment {
-    IMAGE_REPO = "Jawahars/rsvpapp"
+    IMAGE_REPO = "jawahars/rsvpapp"
     // Instead of Jawahars, use your git username
 }
 stages {
